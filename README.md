@@ -22,7 +22,7 @@ A simple MongoDB Express.js React.js Node.js universal (isomorphic) mern-starter
 * bootstrap css v3
 ### Getting Started
 ```sh
-$ git clone https://github.com/bitrecipe/mern-minimal.git
+$ git clone https://github.com/FriendForever115/mern-minimal.git
 $ cd mern-minimal
 $ npm install
 ```
